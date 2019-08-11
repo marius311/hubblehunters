@@ -1,4 +1,4 @@
-# The Hubble Hunters Guide
+# The Hubble Hunter's Guide
 
 This repo contains the code to make the two plots from [The Hubble Hunter's Guide](link-TBD). 
 
