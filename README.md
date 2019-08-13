@@ -1,6 +1,6 @@
 # The Hubble Hunter's Guide
 
-This repo contains the code to make the two plots from [The Hubble Hunter's Guide](link-TBD). 
+This repo contains the code to make the two plots from [The Hubble Hunter's Guide](https://arxiv.org/abs/1908.03663). 
 
 ### Requirements
 
